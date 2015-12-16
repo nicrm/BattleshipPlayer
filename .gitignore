@@ -7,6 +7,14 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 
+build.xml
+project.xml
+build-impl.xml
+manifest.mf
+
+*.properties
+
+
 # Class Files #
 *.class
 
